@@ -94,3 +94,9 @@ If you want to understand how every function, WASM initialization step, and loop
 
 ## 📄 License
 This project is open-source and available under the UNLICENSE License. Feel free to use it as a base for your own physics puzzle games or educational experiments!
+
+## 💡 Acknowledgements & Learning Process
+
+This repository was created as a personal study and learning experiment to explore 2D physics integration using Pixi.js v8, Rapier.js (WASM), and Vite. 
+
+The project architecture, step-by-step implementation, and documentation were developed through collaborative pair-programming with **Gemini 3.6 Flash**, serving as a comprehensive learning resource for developers starting out with web-based physics engines.
