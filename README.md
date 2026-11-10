@@ -10,6 +10,8 @@ This repository serves as a clear, beginner-friendly template and learning resou
 
 [**Play the Live Demo Here**](https://ignat-ignatov.github.io/rapier-pixi-vite-demo/)
 
+![App Demo Gif](rapier-pixi-vite-demo.gif)
+
 ---
 
 ## ✨ Features
